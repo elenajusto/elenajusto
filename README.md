@@ -1,4 +1,5 @@
 ## Hi there 👋
+![1b4ce4120e8ab274eaab273f805a2401](https://github.com/user-attachments/assets/0b586936-c5b3-4b93-8e53-bd319dfc6d01)
 <!--
 **elenajusto/elenajusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
