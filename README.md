@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 <!--
 **elenajusto/elenajusto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### About Me 
+- 🔭 I’m currently working on a rocket flight computer!
+- 🌱 I’m currently learning electronics and firmware programming!
